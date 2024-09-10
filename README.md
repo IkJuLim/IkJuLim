@@ -1,7 +1,7 @@
-### 안녕하세요! 백엔드 개발자가 되고싶은 대학생 임익주입니다.
+### 안녕하세요! 백엔드 개발자 임익주입니다.
 
 
-- 📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">notion-Resume
+- 📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">Resume
 - 📫 How to reach me: limik1004@gmail.com
 - 🌱 I’m currently learning or reading: [`Spring Boot`, 'Kubernetes']
 
@@ -19,3 +19,10 @@
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
 
 [![IkJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkJuLim)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/sbi06193/)
+
+#### Activities
+> |기간|대외활동|역할|
+> |:-:|:-:|:-:|
+> |2024.08 ~ 2025.02|대학생 앱 런칭 IT 연합동아리 UMC 7기|CUK 리더|
+> |2024.03 ~ 2024.08|대학생 앱 런칭 IT 연합동아리 UMC 6기|Spring 파트장|
