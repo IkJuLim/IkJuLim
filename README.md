@@ -1,6 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&thema=ambient_gradient&height=250&section=header&text=IkJu%20Lim&fontSize=90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=900&size=50&pause=1000&color=814DFFD8&lines=Welcome+to+Limikju's+GitHub)](https://git.io/typing-svg)
 
 📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">Resume<br>
 📫 How to reach me: limik1004@gmail.com<br>
