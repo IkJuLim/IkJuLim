@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=ambient_gradient&height=200&section=header&text=IkJu%20Lim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=IkJu%20Lim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32)
 
 - 📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">Resume
 - 📫 How to reach me: limik1004@gmail.com
