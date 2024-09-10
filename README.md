@@ -2,23 +2,25 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&thema=ambient_gradient&height=200&section=header&text=IkJu%20Lim&fontSize=90&fontAlign=62&fontAlignY=32)
 
-- 📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">Resume
-- 📫 How to reach me: limik1004@gmail.com
-- 🌱 I’m currently learning or reading: [`Spring Boot`, `Kubernetes`]
+📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">Resume<br>
+📫 How to reach me: limik1004@gmail.com<br>
+🌱 I’m currently learning or reading: [`Spring Boot`, `Kubernetes`]<br>
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true) -->
 
 ### Skill
 
-- Language:
+Language:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)
 ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
+<br>
 
-- Backend:
+Backend:
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+<br>
 
 [![IkJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkJuLim)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi06193)](https://solved.ac/sbi06193/)
