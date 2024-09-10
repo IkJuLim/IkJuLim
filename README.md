@@ -17,3 +17,5 @@
 - Backend:
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+
+[![IkJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkJuLim)](https://github.com/anuraghazra/github-readme-stats)
