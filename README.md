@@ -1,5 +1,6 @@
-### 안녕하세요! 백엔드 개발자 임익주입니다.
-
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=IkJu%20Lim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32)
 
 - 📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">Resume
 - 📫 How to reach me: limik1004@gmail.com
@@ -27,3 +28,4 @@
 > |2024.08 ~ 2025.02|대학생 앱 런칭 IT 연합동아리 UMC 7기|CUK 회장|
 > |2024.03 ~ 2024.08|대학생 앱 런칭 IT 연합동아리 UMC 6기|Spring 파트장|
 > |2023.08 ~ 2024.02|대학생 앱 런칭 IT 연합동아리 UMC 5기|Spring 스터디장|
+</div>
