@@ -4,7 +4,7 @@
 
 - 📝 My Resume: <a href="https://ikedo.notion.site/69bc09dd6fa149378aeead7189db415d">Resume
 - 📫 How to reach me: limik1004@gmail.com
-- 🌱 I’m currently learning or reading: [`Spring Boot`, 'Kubernetes']
+- 🌱 I’m currently learning or reading: [`Spring Boot`, `Kubernetes`]
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksundong)](https://solved.ac/ksundong)  -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=ksundong&show_icons=true) -->
