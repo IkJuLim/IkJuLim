@@ -24,7 +24,6 @@ Backend:
 <br>
 
 [![IkJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkJuLim)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbi06193)](https://solved.ac/sbi06193/)
 
 #### Activities
 > |기간|대외활동|역할|
